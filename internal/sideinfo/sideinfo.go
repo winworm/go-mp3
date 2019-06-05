@@ -18,9 +18,9 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/hajimehoshi/go-mp3/internal/bits"
-	"github.com/hajimehoshi/go-mp3/internal/consts"
-	"github.com/hajimehoshi/go-mp3/internal/frameheader"
+	"github.com/winworm/go-mp3/internal/bits"
+	"github.com/winworm/go-mp3/internal/consts"
+	"github.com/winworm/go-mp3/internal/frameheader"
 )
 
 type FullReader interface {

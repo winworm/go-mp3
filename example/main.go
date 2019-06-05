@@ -24,7 +24,7 @@ import (
 
 	"github.com/hajimehoshi/oto"
 
-	"github.com/hajimehoshi/go-mp3"
+	"github.com/winworm/go-mp3"
 )
 
 func run() error {
